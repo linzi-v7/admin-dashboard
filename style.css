@@ -173,3 +173,12 @@ button {
     font-size: 1rem;
     color: #ffffff;
 }
+
+.action-buttons button:hover {
+    border: 3.5px solid #1992d4;
+    background-color: white;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+    color: black;
+    cursor: pointer;
+}

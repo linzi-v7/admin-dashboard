@@ -160,6 +160,7 @@ button {
     gap: 1rem;
     justify-content: start;
     align-items: center;
+    padding-bottom: 2rem;
 
 }
 
@@ -167,7 +168,7 @@ button {
     background-color: #1992d4;
 
     width: 25%;
-    height: 35%;
+    height: 50%;
     border-radius: 3rem;
     font-weight: bold;
     font-size: 1rem;

@@ -75,6 +75,22 @@ button {
     align-items: center;
 }
 
+.sidebar-menu .sidebar-item:hover,
+.sidebar-footer .sidebar-item:hover {
+    font-size: 1.5rem;
+    box-shadow: 1px 1px 20px 14px rgba(0, 0, 0, 0.075);
+
+}
+
+.sidebar-header .sidebar-item:hover {
+    font-size: 2.2rem;
+}
+
+.sidebar-item:hover img {
+    transform: scale(1.4);
+}
+
+
 .sidebar-item:hover,
 .small-icon:hover,
 .pfp:hover {

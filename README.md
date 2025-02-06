@@ -49,7 +49,8 @@ Although the project is currently static, potential future improvements include:
 - **Dynamic Content** – Integrating with a backend for real-time data.  
 - **Enhanced Styling** – Adding **CSS animations and transitions** for better UX.  
 - **Drag & Drop** – Enabling drag-and-drop functionality for project cards.  
-- **Responsive Design** – Adapting the layout for mobile and different screen sizes.  
+- **Responsive Design** – Adapting the layout for mobile and different screen sizes.
+- **Clean Code** - Follow best practices and use more CSS variables for better maintanibility.  
 
 ## Live Demo  
 

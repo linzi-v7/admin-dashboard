@@ -36,7 +36,7 @@ This project serves as an educational exercise in **CSS Grid** and frontend desi
 ## Screenshots & Reference  
 
 - **Achieved**  
-  <img src="./images/github/achieved.png.png" alt="Admin Dashboard Screenshot" width="500">  
+  <img src="./images/github/achieved.png" alt="Admin Dashboard Screenshot" width="500">  
 
 - **Reference**  
   <img src="./images/github/reference.png" alt="Reference Dashboard" width="500">  
